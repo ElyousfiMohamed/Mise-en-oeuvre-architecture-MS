@@ -117,6 +117,19 @@
         <b>après le démarrage des services Customer et Invoice</b>
         <img src="./screens/Screenshot_40.png" width="700"/>
         <img src="./screens/Screenshot_41.png" width="700"/>
+        <h3>4. GATEWAY-SERVICE</h3>
+        <h5>4.1. Dynamic routes configuration avec Discovery Service</h5>
+        <img src="./screens/Screenshot_43.png" width="700"/>
+        <img src="./screens/Screenshot_42.png" width="700"/>
+        <b>aprés le démarrage de la Gateway</b>
+        <img src="./screens/Screenshot_44.png" width="700"/>
+        <b>Accés au BILLING-SERVICE à partir du Gateway</b>
+        <img src="./screens/Screenshot_46.png" width="700"/>
+        <b>Accés au CUSTOMER-SERVICE à partir du Gateway</b>
+        <img src="./screens/Screenshot_45.png" width="700"/>
+        <b>Ajout d'une facture à partir du Gateway</b>
+        <img src="./screens/Screenshot_47.png" width="700"/>
+        
 </div>
 
 <!-- <img src="./screens/rodape_readme.jpg" alt="Art for footer readme.md" /> -->
