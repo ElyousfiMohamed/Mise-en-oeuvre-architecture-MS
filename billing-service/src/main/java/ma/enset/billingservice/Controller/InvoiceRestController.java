@@ -21,7 +21,7 @@ public class InvoiceRestController {
     }
 
     @GetMapping("/invoices/{id}")
-    public InvoiceResponseDto getInvoice(String id) {
+    public InvoiceResponseDto getInvoice(@PathVariable String id) {
         return invoiceService.getInvoice(id);
     }
 

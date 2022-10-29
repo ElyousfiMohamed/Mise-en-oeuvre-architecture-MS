@@ -4,7 +4,7 @@
 
 <div>
     <p>
-        <a href="">Notes de cours</a>
+        <a href="">📌 Notes de cours</a>
         <h5>Selected Dependencies</h5>
         <ul>
             <li>
@@ -41,6 +41,8 @@
                 Swagger-Ui.
             </li>
         </ul> 
+        <h3> 📌 Architecture Micro-Services </h3>
+        <img src="./screens/arch.png"/>
         <h3>1. CUSTOMER-SERVICE</h3>
         <h5>1.1. Création de l'entité Customer</h5>
         <img src="./screens/Screenshot_1.png" width="700"/>
@@ -104,6 +106,17 @@
         <img src="./screens/Screenshot_34.png" width="700"/>
         <h6>Test de l'API - getInvoiceById</h6>
         <img src="./screens/Screenshot_35.png" width="700"/>
+        <h3>3. DISCOVERY-SERVICE</h3>
+        <h5>3.1. Création du CustomerRestClient avec OpenFeign</h5>
+        <img src="./screens/Screenshot_36.png" width="700"/>
+        <h5>3.2. Enable Eureka Server</h5>
+        <img src="./screens/Screenshot_37.png" width="700"/>
+        <img src="./screens/Screenshot_38.png" width="700"/>
+        <b>avant le démarrage des services Customer et Invoice</b>
+        <img src="./screens/Screenshot_39.png" width="700"/>
+        <b>après le démarrage des services Customer et Invoice</b>
+        <img src="./screens/Screenshot_40.png" width="700"/>
+        <img src="./screens/Screenshot_41.png" width="700"/>
 </div>
 
 <!-- <img src="./screens/rodape_readme.jpg" alt="Art for footer readme.md" /> -->
