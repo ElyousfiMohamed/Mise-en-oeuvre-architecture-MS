@@ -102,9 +102,9 @@
         <h5>2.10. Swagger</h5>
         <h6>Documentation de l'API</h6>
         <img src="./screens/Screenshot_33.png" width="700"/>
-        <h6>Test de l'API - getAllInvoices</h6>
+        <h6>Test de l'API - getAllInvoices</h6><br>
         <img src="./screens/Screenshot_34.png" width="700"/>
-        <h6>Test de l'API - getInvoiceById</h6>
+        <h6>Test de l'API - getInvoiceById</h6><br>
         <img src="./screens/Screenshot_35.png" width="700"/>
         <h3>3. DISCOVERY-SERVICE</h3>
         <h5>3.1. Création du CustomerRestClient avec OpenFeign</h5>
@@ -112,22 +112,22 @@
         <h5>3.2. Enable Eureka Server</h5>
         <img src="./screens/Screenshot_37.png" width="700"/>
         <img src="./screens/Screenshot_38.png" width="700"/>
-        <b>avant le démarrage des services Customer et Invoice</b>
+        <b>avant le démarrage des services Customer et Invoice</b><br>
         <img src="./screens/Screenshot_39.png" width="700"/>
-        <b>après le démarrage des services Customer et Invoice</b>
+        <b>après le démarrage des services Customer et Invoice</b><br>
         <img src="./screens/Screenshot_40.png" width="700"/>
         <img src="./screens/Screenshot_41.png" width="700"/>
         <h3>4. GATEWAY-SERVICE</h3>
         <h5>4.1. Dynamic routes configuration avec Discovery Service</h5>
         <img src="./screens/Screenshot_43.png" width="700"/>
         <img src="./screens/Screenshot_42.png" width="700"/>
-        <b>aprés le démarrage de la Gateway</b>
+        <b>aprés le démarrage de la Gateway</b><br>
         <img src="./screens/Screenshot_44.png" width="700"/>
-        <b>Accés au BILLING-SERVICE à partir du Gateway</b>
+        <b>Accés au BILLING-SERVICE à partir du Gateway</b><br>
         <img src="./screens/Screenshot_46.png" width="700"/>
-        <b>Accés au CUSTOMER-SERVICE à partir du Gateway</b>
+        <b>Accés au CUSTOMER-SERVICE à partir du Gateway</b><br>
         <img src="./screens/Screenshot_45.png" width="700"/>
-        <b>Ajout d'une facture à partir du Gateway</b>
+        <b>Ajout d'une facture à partir du Gateway</b><br>
         <img src="./screens/Screenshot_47.png" width="700"/>
         
 </div>
