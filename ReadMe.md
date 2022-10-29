@@ -111,22 +111,22 @@
         <img src="./screens/Screenshot_36.png" width="700"/>
         <h5>3.2. Enable Eureka Server</h5>
         <img src="./screens/Screenshot_37.png" width="700"/>
-        <img src="./screens/Screenshot_38.png" width="700"/>
+        <img src="./screens/Screenshot_38.png" width="700"/><br>
         <b>avant le démarrage des services Customer et Invoice</b><br>
-        <img src="./screens/Screenshot_39.png" width="700"/>
+        <img src="./screens/Screenshot_39.png" width="700"/><br>
         <b>après le démarrage des services Customer et Invoice</b><br>
         <img src="./screens/Screenshot_40.png" width="700"/>
         <img src="./screens/Screenshot_41.png" width="700"/>
         <h3>4. GATEWAY-SERVICE</h3>
         <h5>4.1. Dynamic routes configuration avec Discovery Service</h5>
         <img src="./screens/Screenshot_43.png" width="700"/>
-        <img src="./screens/Screenshot_42.png" width="700"/>
+        <img src="./screens/Screenshot_42.png" width="700"/><br>
         <b>aprés le démarrage de la Gateway</b><br>
-        <img src="./screens/Screenshot_44.png" width="700"/>
+        <img src="./screens/Screenshot_44.png" width="700"/><br>
         <b>Accés au BILLING-SERVICE à partir du Gateway</b><br>
-        <img src="./screens/Screenshot_46.png" width="700"/>
+        <img src="./screens/Screenshot_46.png" width="700"/><br>
         <b>Accés au CUSTOMER-SERVICE à partir du Gateway</b><br>
-        <img src="./screens/Screenshot_45.png" width="700"/>
+        <img src="./screens/Screenshot_45.png" width="700"/><br>
         <b>Ajout d'une facture à partir du Gateway</b><br>
         <img src="./screens/Screenshot_47.png" width="700"/>
         
