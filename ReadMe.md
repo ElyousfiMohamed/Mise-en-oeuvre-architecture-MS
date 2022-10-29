@@ -129,6 +129,42 @@
         <img src="./screens/Screenshot_45.png" width="700"/><br>
         <b>Ajout d'une facture à partir du Gateway</b><br>
         <img src="./screens/Screenshot_47.png" width="700"/>
+        <h3>5. DEPLOY THE MICROSERVICES</h3>
+        <h5>5.1. DiscoveryService</h5>
+        - Création du Dockerfile
+        <img src="./screens/Screenshot_48.png" width="700"/>
+        - Génération du fichier jar
+        <img src="./screens/Screenshot_49.png" width="700"/>
+        - Build de l'image Docker
+        <img src="./screens/Screenshot_52.png" width="700"/>
+        <img src="./screens/Screenshot_53.png" width="700"/>
+        <h5>5.2. GatewayService</h5>
+        - Création du Dockerfile & jar
+        <img src="./screens/Screenshot_51.png" width="700"/>
+        - Build de l'image Docker
+        <img src="./screens/Screenshot_54.png" width="700"/>
+        <img src="./screens/Screenshot_55.png" width="700"/>
+        <h5>5.3. CustomerService</h5>
+        - Création du Dockerfile
+        <img src="./screens/Screenshot_50.png" width="700"/>
+        - Génération du fichier jar
+        <img src="./screens/Screenshot_56.png" width="700"/>
+        - Build de l'image Docker
+        <img src="./screens/Screenshot_57.png" width="700"/>
+        <img src="./screens/Screenshot_58.png" width="700"/>
+        <h5>5.4. BillingService</h5>
+        - Création du Dockerfile & jar
+        <img src="./screens/Screenshot_59.png" width="700"/>
+        - Build de l'image Docker
+        <img src="./screens/Screenshot_60.png" width="700"/>
+        <img src="./screens/Screenshot_61.png" width="700"/>
+        <h5>5.5. Pushing images into repositories</h5>
+        <img src="./screens/Screenshot_62.png" width="700"/>
+        <!-- 
+        <h5>5.6. Running the microservices with minikube</h5>
+        <img src="./screens/Screenshot_63.png" width="700"/>
+        -->
+
         
 </div>
 

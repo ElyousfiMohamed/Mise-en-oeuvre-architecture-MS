@@ -1,6 +1,5 @@
 package ma.enset.customerservice.Dto;
 
-import lombok.Data;
 
 public class CustomerResponseDTO {
     private String id;

@@ -1,9 +1,5 @@
 package ma.enset.customerservice.Dto;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
-
 public class CustomerRequestDTO {
     private String id;
     private String name;

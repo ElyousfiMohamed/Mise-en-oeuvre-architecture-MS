@@ -1,6 +1,5 @@
 package ma.enset.customerservice.Controller;
 
-import lombok.AllArgsConstructor;
 import ma.enset.customerservice.Dto.CustomerRequestDTO;
 import ma.enset.customerservice.Dto.CustomerResponseDTO;
 import ma.enset.customerservice.Repository.CustomerRepository;
