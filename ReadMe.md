@@ -173,10 +173,7 @@
         <img src="./screens/Screenshot_65.png" width="700"/>
         <img src="./screens/Screenshot_66.png" width="700"/>
         <img src="./screens/Screenshot_63.png" width="700"/>
-        <!-- 
-        <h5>5.7. Test the microservices</h5>
-        <img src="./screens/.png" width="700"/>
-        -->
+        <h5>5.7. Test the microservices (En cours)</h5>
         </details>
 
         
