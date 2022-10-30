@@ -160,9 +160,13 @@
         <img src="./screens/Screenshot_61.png" width="700"/>
         <h5>5.5. Pushing images into repositories</h5>
         <img src="./screens/Screenshot_62.png" width="700"/>
-        <!-- 
-        <h5>5.6. Running the microservices with minikube</h5>
+        <h5>5.6. Create deployements with Minikube</h5>
+        <img src="./screens/Screenshot_65.png" width="700"/>
+        <img src="./screens/Screenshot_66.png" width="700"/>
         <img src="./screens/Screenshot_63.png" width="700"/>
+        <!-- 
+        <h5>5.7. Test the microservices</h5>
+        <img src="./screens/.png" width="700"/>
         -->
 
         
