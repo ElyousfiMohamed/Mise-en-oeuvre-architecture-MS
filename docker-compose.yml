@@ -1,0 +1,33 @@
+version: '3'
+services:
+  discovery-service:
+    image: elyousfi5/discovery-service
+    ports:
+      - 8761:8761
+  gateway-service:
+    image: elyousfi5/gateway-service
+    ports:
+      - 9999:9999
+    depends_on:
+      - discovery-service
+    environment:
+      - eureka.client.service-url.defaultZone=http://discovery-service:8761/eureka
+  customer-service:
+    image: elyousfi5/customer-service
+    ports:
+      - 8080:8080
+    environment:
+      - eureka.client.service-url.defaultZone=http://discovery-service:8761/eureka
+    depends_on:
+      - discovery-service
+      - gateway-service
+  billing-service:
+    image: elyousfi5/billing-service
+    ports:
+      - 8081:8081
+    environment:
+      - eureka.client.service-url.defaultZone=http://discovery-service:8761/eureka
+    depends_on:
+      - discovery-service
+      - gateway-service
+      - customer-service

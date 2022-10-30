@@ -139,7 +139,7 @@
         </details>
         <details>
         <summary style="font-size:20px;cursor:pointer">5. DEPLOY THE MICROSERVICES (Click to expand 🖱) </summary>
-        <h5>5.1. DiscoveryService</h5><br>
+        <h5>5.1. DiscoveryService</h5>
         <i>- Création du Dockerfile</i><br>
         <img src="./screens/Screenshot_48.png" width="700"/><br>
         <i>- Génération du fichier jar</i><br>
@@ -147,13 +147,13 @@
         <i>- Build de l'image Docker</i><br>
         <img src="./screens/Screenshot_52.png" width="700"/><br>
         <img src="./screens/Screenshot_53.png" width="700"/>
-        <h5>5.2. GatewayService</h5><br>
+        <h5>5.2. GatewayService</h5>
         <i>- Création du Dockerfile & jar</i><br>
         <img src="./screens/Screenshot_51.png" width="700"/><br>
         <i>- Build de l'image Docker</i><br>
         <img src="./screens/Screenshot_54.png" width="700"/><br>
         <img src="./screens/Screenshot_55.png" width="700"/>
-        <h5>5.3. CustomerService</h5><br>
+        <h5>5.3. CustomerService</h5>
         <i>- Création du Dockerfile</i><br>
         <img src="./screens/Screenshot_50.png" width="700"/><br>
         <i>- Génération du fichier jar</i><br>
@@ -169,11 +169,20 @@
         <img src="./screens/Screenshot_61.png" width="700"/>
         <h5>5.5. Pushing images into repositories</h5>
         <img src="./screens/Screenshot_62.png" width="700"/>
-        <h5>5.6. Create deployements with Minikube</h5>
+        <h5>5.6. Test avec Docker-compose</h5>
+        <i>- Docker-compose.yml</i><br>
+        <img src="./screens/Screenshot_68.png" width="700"/>
+        <i>- Services running</i><br>
+        <img src="./screens/Screenshot_67.png" width="700"/>
+        <i>- Test</i><br>
+        <img src="./screens/Screenshot_69.png" width="700"/>
+        <img src="./screens/Screenshot_70.png" width="700"/>
+        <img src="./screens/Screenshot_71.png" width="700"/>
+        <h5>5.7. Create deployements with Minikube</h5>
         <img src="./screens/Screenshot_65.png" width="700"/>
         <img src="./screens/Screenshot_66.png" width="700"/>
         <img src="./screens/Screenshot_63.png" width="700"/>
-        <h5>5.7. Test the microservices (En cours)</h5>
+        <h5>5.8. Test the microservices (En cours)</h5>
         </details>
 
         
