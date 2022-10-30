@@ -43,7 +43,8 @@
         </ul> 
         <h3> 📌 Architecture Micro-Services </h3>
         <img src="./screens/arch.png"/>
-        <h3>1. CUSTOMER-SERVICE</h3>
+        <details>
+        <summary style="font-size:20px;cursor:pointer">1. CUSTOMER-SERVICE (Click to expand 🖱)</summary>
         <h5>1.1. Création de l'entité Customer</h5>
         <img src="./screens/Screenshot_1.png" width="700"/>
         <h5>1.1. Création du repository Customer</h5>
@@ -74,7 +75,9 @@
         <h6>Test de l'API - addCustomer</h6>
         <img src="./screens/Screenshot_16.png" width="700"/>
         <img src="./screens/Screenshot_17.png" width="700"/>
-        <h3>2. BILLING-SERVICE</h3>
+        </details>
+        <details>
+        <summary style="font-size:20px;cursor:pointer">2. BILLING-SERVICE (Click to expand 🖱)</summary>
         <h5>2.1. Création de l'entité Invoice et Customer</h5>
         <img src="./screens/Screenshot_18.png" width="700"/>
         <img src="./screens/Screenshot_19.png" width="700"/>
@@ -106,7 +109,9 @@
         <img src="./screens/Screenshot_34.png" width="700"/>
         <h6>Test de l'API - getInvoiceById</h6><br>
         <img src="./screens/Screenshot_35.png" width="700"/>
-        <h3>3. DISCOVERY-SERVICE</h3>
+        </details>
+        <details>
+        <summary style="font-size:20px;cursor:pointer">3. DISCOVERY-SERVICE (Click to expand 🖱)</summary>
         <h5>3.1. Création du CustomerRestClient avec OpenFeign</h5>
         <img src="./screens/Screenshot_36.png" width="700"/>
         <h5>3.2. Enable Eureka Server</h5>
@@ -117,7 +122,9 @@
         <b>après le démarrage des services Customer et Invoice</b><br>
         <img src="./screens/Screenshot_40.png" width="700"/>
         <img src="./screens/Screenshot_41.png" width="700"/>
-        <h3>4. GATEWAY-SERVICE</h3>
+        </details>
+        <details>
+        <summary style="font-size:20px;cursor:pointer">4. GATEWAY-SERVICE (Click to expand 🖱)</summary>
         <h5>4.1. Dynamic routes configuration avec Discovery Service</h5>
         <img src="./screens/Screenshot_43.png" width="700"/>
         <img src="./screens/Screenshot_42.png" width="700"/><br>
@@ -129,7 +136,9 @@
         <img src="./screens/Screenshot_45.png" width="700"/><br>
         <b>Ajout d'une facture à partir du Gateway</b><br>
         <img src="./screens/Screenshot_47.png" width="700"/>
-        <h3>5. DEPLOY THE MICROSERVICES</h3>
+        </details>
+        <details>
+        <summary style="font-size:20px;cursor:pointer">5. DEPLOY THE MICROSERVICES (Click to expand 🖱) </summary>
         <h5>5.1. DiscoveryService</h5><br>
         <i>- Création du Dockerfile</i><br>
         <img src="./screens/Screenshot_48.png" width="700"/><br>
@@ -168,6 +177,7 @@
         <h5>5.7. Test the microservices</h5>
         <img src="./screens/.png" width="700"/>
         -->
+        </details>
 
         
 </div>
