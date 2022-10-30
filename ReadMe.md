@@ -171,9 +171,9 @@
         <img src="./screens/Screenshot_62.png" width="700"/>
         <h5>5.6. Test avec Docker-compose</h5>
         <i>- Docker-compose.yml</i><br>
-        <img src="./screens/Screenshot_68.png" width="700"/>
+        <img src="./screens/Screenshot_68.png" width="700"/><br>
         <i>- Services running</i><br>
-        <img src="./screens/Screenshot_67.png" width="700"/>
+        <img src="./screens/Screenshot_67.png" width="700"/><br>
         <i>- Test</i><br>
         <img src="./screens/Screenshot_69.png" width="700"/>
         <img src="./screens/Screenshot_70.png" width="700"/>
